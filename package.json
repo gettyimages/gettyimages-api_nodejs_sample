@@ -1,0 +1,30 @@
+{
+  "name": "gettyimages-api_nodejs_sample",
+  "version": "1.0.0",
+  "description": "Sample application using the Getty Images API NodeJS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gettyimages/gettyimages-api_nodejs_sample.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "getty",
+    "images",
+    "api",
+    "sample"
+  ],
+  "author": "Mark Pitman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gettyimages/gettyimages-api_nodejs_sample/issues"
+  },
+  "homepage": "https://github.com/gettyimages/gettyimages-api_nodejs_sample#readme",
+  "dependencies": {
+    "gettyimages-api": "^2.2.0"
+  }
+}
