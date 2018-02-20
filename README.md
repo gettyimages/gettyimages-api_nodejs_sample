@@ -22,3 +22,9 @@ It depends on your shell
 
 #### Bash:
 Same as macOS/Linux
+
+## Run the code
+
+```sh
+node index.js
+```
